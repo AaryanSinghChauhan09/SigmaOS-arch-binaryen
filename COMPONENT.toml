@@ -3,7 +3,7 @@ name = "SigmaOS-arch-binaryen"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-binaryen component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
