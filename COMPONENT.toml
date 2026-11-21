@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-binaryen"
+name = "SigmaOS-binaryen"
 tier = 2
 stability = "scaffold"
 language = "rust"

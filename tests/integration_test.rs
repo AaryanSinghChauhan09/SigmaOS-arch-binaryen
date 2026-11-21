@@ -1,4 +1,4 @@
-use arch_binaryen::Component;
+use sigmaos_binaryen::Component;
 
 #[test]
 fn test_component_new_aaa() {

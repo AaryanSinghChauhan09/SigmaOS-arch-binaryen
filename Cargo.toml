@@ -1,10 +1,10 @@
 [package]
-name = "arch-binaryen"
+name = "sigmaos-binaryen"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-binaryen component - SigmaOS component"
+description = "SigmaOS SigmaOS-binaryen component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-binaryen"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-binaryen"
 
 [dependencies]
 thiserror = "2"
